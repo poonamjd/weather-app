@@ -1,0 +1,16 @@
+{
+  "name": "Day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eventdemo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "poonamjd <poonam.smiles@gmail.com> (http://poonaminashell.wordpress.com)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "2.60.0",
+    "yargs": "10.0.0"
+  }
+}
